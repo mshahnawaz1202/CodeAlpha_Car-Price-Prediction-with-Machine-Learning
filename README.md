@@ -46,7 +46,6 @@ A comparison of average car prices across different manufacturers.
 ```text
 ├── Car_Price_Prediction.ipynb   # Main analysis and modeling
 ├── CarPrice.csv                 # Raw dataset
-├── generate_visuals.py          # Script for README visuals
 └── outputs/
     ├── car_price_model.pkl      # Saved model
     └── *.png                    # Project visualizations
